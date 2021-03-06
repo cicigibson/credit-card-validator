@@ -18,4 +18,4 @@ Project is created with:
 This project is **complete**.
 
 ## Sources
-This project was created as part of the Full-Stack Developer track on [Codeacademy](http://www.codeacademy.com/)
+This project was created as part of the Full-Stack Developer track on [Codeacademy](http://www.codeacademy.com/).
